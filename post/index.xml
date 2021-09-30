@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | Qizhao Lab</title>
+    <link>https://likelet.github.io/post/</link>
+      <atom:link href="https://likelet.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://likelet.github.io/media/icon_huc92b86c516357a0134b7c1ec7b6a518b_64366_512x512_fill_lanczos_center_3.png</url>
+      <title>Latest News</title>
+      <link>https://likelet.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>IDEA, a web server for Interactive Differential 2 Expression Analysis with R Packages</title>
+      <link>https://likelet.github.io/post/idea/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://likelet.github.io/post/idea/</guid>
+      <description>&lt;p&gt;Congratulations.&lt;/p&gt;
+&lt;p&gt;High-throughput sequencing technology is rapidly becoming the standard method for measuring gene expression at the transcriptional level. One of the main goals of such work is to identify differentially expressed genes under two or more conditions. A number of computational tools , such as DESeq (Anders and Huber 2010) (updated as DESeq2 (Love, Huber et al. 2014)), edgeR (Robinson, McCarthy et al. 2010, Zhou, Lindsay et al. 2014), NOISeq (Tarazona, García-Alcalde et al. 2011), PoissonSeq (Li, Witten et al. 2011), and SAMseq (samr) (Li and Tibshirani 2013) and Cuffdiff (Trapnell, et al., 2013) have been developed for the analysis of differential gene expression from patterns in RNA-seq data. Most of these tools are implemented in R language, which is commonly used for the analysis of high-dimensional expression data. However, a fairly high level of programing skill is required when applying these R tools to screen out differentially expressed genes, greatly hindering the application of these tools since many biology researchers have little programing experience. Beyond this problem, due to a lack of an interactive interface in these tools, it is inconvenient to adjust the analytical parameters, even for advanced users. Moreover, since different packages generate inconsistent results, an interactive platform that combines these tools together is necessary for obtaining more solid analysis results.
+To address the above issues, here we introduce the Interactive Differential Expression Analyzer (IDEA), a Shiny-based web application dedicated to the identification of differential expression genes in an interactive way. IDEA was built as a user-friendly and highly interactive utility using the Shiny (RStudio Inc. 2014) package in R. Currently, five relevant R packages are integrated into IDEA. IDEA is capable of visualizing the results with plenty of charts and tables, as well as providing great ease of interaction during the course of the analysis.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>LncPipe, a Nextflow-based pipeline for comprehensive analyses of long non-coding RNAs from RNA-seq datasets</title>
+      <link>https://likelet.github.io/post/lncpipe/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://likelet.github.io/post/lncpipe/</guid>
+      <description>&lt;p&gt;Congratulations.&lt;/p&gt;
+&lt;p&gt;Recently, long noncoding RNA molecules (lncRNA) captured widespread attentions for their critical roles in diverse biological process and important implications in variety of human diseases and cancers. Identification and profiling of lncRNAs is a fundamental step to advance our knowledge on their function and regulatory mechanisms. However, RNA sequencing based lncRNA discovery is currently limited due to complicated operations and implementation of the tools involved. Therefore, we present a one-stop multi-tool integrated pipeline called LncPipe focused on characterizing lncRNAs from raw transcriptome sequencing data. The pipeline was developed based on a popular workflow framework Nextflow, composed of four core procedures including reads alignment, assembly, identification and quantification. It contains various unique features such as well-designed lncRNAs annotation strategy, optimized calculating efficiency, diversified classification and interactive analysis report. LncPipe allows users additional control in interuppting the pipeline, resetting parameters from command line, modifying main script directly and resume analysis from previous checkpoint.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

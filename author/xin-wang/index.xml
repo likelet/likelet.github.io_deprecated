@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xin Wang | Qizhao Lab</title>
+    <link>https://likelet.github.io/author/xin-wang/</link>
+      <atom:link href="https://likelet.github.io/author/xin-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xin Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://likelet.github.io/author/xin-wang/avatar_hu4e0e6b240036a7b534010b79a1950b62_8850861_270x270_fill_lanczos_center_3.png</url>
+      <title>Xin Wang</title>
+      <link>https://likelet.github.io/author/xin-wang/</link>
+    </image>
+    
+  </channel>
+</rss>
