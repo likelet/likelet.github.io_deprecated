@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Latest News | Qizhao Lab</title>
+    <title>Latest News | Qizhao Research Group</title>
     <link>https://likelet.github.io/post/</link>
       <atom:link href="https://likelet.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
